@@ -1,4 +1,4 @@
-# flutter_device_info
+# Flutter Device Info
 
 A new Flutter project.
 
